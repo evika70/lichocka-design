@@ -1,13 +1,13 @@
 ---
 title: 'How I deployed my first static website to Netlify'
 excerpt: "Today I'll show you how I deployed my first portfolio website using Github, Netlify and Viscual Studio Code."
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/dynamic-routing/code.png'
 date: '2021-02-13T07:55:11.402Z'
 author:
   name: Ewelina Lichocka
   picture: '/assets/blog/authors/Ewelina.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/dynamic-routing/code.png'
 ---
 <h2><b>Short History</b></h2> 
 Sometimes people love learn new things. They decide to deepen their education for example to find a better paying job or just increase skills. What about me? All life I've been going around graphic design and desktop publishing. But a technology is stil developing very quickly and maybe in 5 years the usual graphics designers won't be needed at all? Who knows...I decided to change my profession a little and add to my CV some new skills. A long time ago I though about programming but each time I was giving up. No time, nobody to help was making that web coding has become a big barrier for me. But just now I have an opportunity to try this once again because I have mentor and really admirable support from him. That's why I want to take this chance. <br>
