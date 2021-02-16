@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 --- 
 
-<span>&#8226;</span> Your portfolio need an upgrade? \
+<span>&#8226;</span> Your portfolio need an upgreade? \
 <span>&#8226;</span> Your client has been asking for hours when you will finish a project for them? \
 <span>&#8226;</span> Maybe you have a lot of studying and your only meal during the day is coffe? \
 <span>&#8226;</span> Last time you saw a list withtop design trends for 2021, but you don’t have time to learn it all? 
