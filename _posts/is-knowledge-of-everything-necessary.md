@@ -14,9 +14,9 @@ ogImage:
 If you've ever looked for job in IT, certainly you've seen thousand of job offers in differents places like big corporations or small startups. Each of them have a different requirements in both education and work experience. In large companies
 recruiters look at the number of years you've worked in a profession. In this way it's easier to judge if you're a junior,mid or senior and they often require a clearly defined level of certain skills. But in small family businesses there's no often level division. You're just graphic designer, UI or Web Developer often without opportunities for advancement. But in both cases is one small common area: Requirements. Last week I saw a job offer for on UI designer and I paid attention to requirements such as: 
 
-<span>&#8226;</span> Knowledge of Adobe suite (okay) \
-<span>&#8226;</span> Use Sketch, Figma, Invision (okay) \
-<span>&#8226;</span> HTML, CSS, basic JavaScript (wait...what?)
+- Knowledge of Adobe suite (okay) 
+- Use Sketch, Figma, Invision (okay) 
+- HTML, CSS, basic JavaScript (wait...what?)
 
 It's often the case in employment. In a lot of companies we can find a combination of Graphic designer / User Interface / User Experience and Front-end. Sounds scary when you imagine that you have to possess so many different skills. We ask ourselves: What for? After all, the same things can be done by 4 different people so why? 
 
