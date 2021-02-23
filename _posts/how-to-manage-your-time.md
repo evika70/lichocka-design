@@ -7,7 +7,7 @@ author:
   name: Ewelina Lichocka
   picture: '/assets/blog/authors/Ewelina.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/dynamic-routing/time.png'
 --- 
 
 - Your portfolio need an upgreade?
