@@ -1,7 +1,7 @@
 ---
 title: 'How to manage your time'
 excerpt: "Do you work in IT? Do you often think that you don't have enough time? 24 hour aren't enough for you to fulfill your responsibilities and increase skills? Maybe you should read about my ways to manage time!"
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/dynamic-routing/time.png'
 date: '2021-02-15T20:12:11.402Z'
 author:
   name: Ewelina Lichocka

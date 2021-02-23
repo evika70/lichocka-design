@@ -1,7 +1,7 @@
 ---
 title: 'UI/UX/Coding. Is knowledge of everything necessary?'
 excerpt: "In this post I'll tell you about the pros and cons of being a multitasker in the IT industry. Curious? Take a look!"
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/dynamic-routing/know.png'
 date: '2021-02-18T20:22:26.402Z'
 author:
   name: Ewelina Lichocka

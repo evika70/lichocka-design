@@ -1,13 +1,13 @@
 ---
 title: "Career as a graphic designer"
 excerpt: "I decided to publish this post for everyone who wants to plan their career as a graphic designer. I'll give you some helpful tips and tell you a bit about my beginnings."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/dynamic-routing/designer.png"
 date: "2021-02-20T20:21:50.402Z"
 author:
   name: Ewelina Lichocka
   picture: "/assets/blog/authors/Ewelina.png"
 ogImage:
-  url: "/assets/blog/dynamic-routing/designer.png"
+  url: '/assets/blog/dynamic-routing/designer.png'
 ---
 
 ## How did it start?

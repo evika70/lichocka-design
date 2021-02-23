@@ -1,7 +1,7 @@
 ---
 title: 'How I deployed my first static website to Netlify'
 excerpt: "Today I'll show you how I deployed my first portfolio website using Github, Netlify and Viscual Studio Code."
-coverImage: '/assets/blog/dynamic-routing/code.png'
+coverImage: '/assets/blog/dynamic-routing/netlify.png'
 date: '2021-02-13T07:55:11.402Z'
 author:
   name: Ewelina Lichocka

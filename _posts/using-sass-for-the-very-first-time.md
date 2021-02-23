@@ -1,7 +1,7 @@
 ---
 title: 'Using Sass for the very first time'
 excerpt: "My first meet with Sass technology. What is it and how to use it? You can read it in this post!"
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/dynamic-routing/sass.png'
 date: '2021-02-22T20:22:53.402Z'
 author:
   name: Ewelina Lichocka
